@@ -36,7 +36,7 @@ section h1 {
 
 .profile_container {
 	aspect-ratio: 1/1;
-	width: min(300px, 90%);
+	width: min(150px, 45%);
 	position: relative;
 }
 
