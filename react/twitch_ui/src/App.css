@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+
+:root {
+    /*Colors */
+
+    --dark-primary:#0e0e10;
+    --dark-secondary:#18181b;
+    --dark-tertiary:#1f1f23;
+    --dark-quaternary:#26262c;
+
+    --grey-bg:#2f2f35;
+
+    --feature-primary: #330c6e;
+    --feature-secondary:#451093;
+    --feature-tertiary:#5c16c5;
+
+    --color-tooltip-bg:#fff;
+    --color-tooltip-text:#000;
+    --color-opac: rgba(83, 82, 95, 0.38);
+    --color-bg-button-hover: rgba(83,83,95,0.48);
+    --color-input-border:#6b6b6f;
+    --color-input-text:#bababb;
+    --color-bg-red: #e91916;
+    --color-bg-prime:#0e9bd8;
+
+    --color-text-base:#efeff1;
+    --color-text-grey:#adadb8;
+    --color-text-link:#bf94ff;
+    --color-text-link-hover:#a970ff;
+   
+
+    /*Elements */
+
+    --navbar-height: 50px;
+    --sidebar-width:230px;
+    --sidebar-width-collapsed:50px;
+
+    --input-border-width-small:1px;
+
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+} 
+
+#main {
+    display: grid;
+    grid-template-areas: "navbar navbar" "sidebar content";
+    grid-template-columns: var(--sidebar-width) auto;
+    grid-template-rows: var(--navbar-height) auto;
+    height:100vh;
+
+}
+

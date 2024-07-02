@@ -1,0 +1,5 @@
+#content {
+    grid-area: content;
+    background-color:var(--dark-primary);
+    color:var(--color-text-base);
+}

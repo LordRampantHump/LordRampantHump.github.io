@@ -1,0 +1,7 @@
+#navbar {
+    grid-area: navbar;
+    display:flex;
+    background-color:var(--dark-secondary);
+    color:var(--color-text-base);
+    
+}

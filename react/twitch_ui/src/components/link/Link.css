@@ -1,0 +1,36 @@
+.link{
+    text-decoration: none;
+    line-height: 1.15rem;
+    font-size:1.15rem;
+    font-weight:550
+}
+
+.primary-link{
+    color:var(--color-text-base);
+;
+}
+
+.primary-link:hover{
+    color:var(--color-text-link-hover);
+    text-decoration: none;
+}
+
+
+.secondary-link{
+    color:var(--color-text-link);
+
+}
+
+.secondary-link:hover{
+    color:var(--color-text-link-hover);
+    text-decoration: underline;
+}
+
+.tertiary-link{
+    color:var(--color-opac);
+
+}
+
+.tertiary-link:hover{
+    color:var(--color-text-link-hover);
+}
