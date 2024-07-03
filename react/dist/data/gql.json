@@ -1,0 +1,2036 @@
+[
+    {
+        "data": {
+            "personalSections": [
+                {
+                    "type": "RECS_FOLLOWED_SECTION",
+                    "title": {
+                        "localizedFallback": "Followed Channels",
+                        "localizedTokens": [
+                            {
+                                "value": "Followed Channels",
+                                "__typename": "PersonalSectionTextToken"
+                            }
+                        ],
+                        "__typename": "PersonalSectionTitle"
+                    },
+                    "items": [
+                        {
+                            "trackingID": "0c70966d-8264-46e5-8a80-1453427578d9",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "99591839",
+                                "login": "natarsha",
+                                "displayName": "Natarsha",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1aaf5a70-03a7-4b0f-aa76-ea34ac6a95fc-profile_image-70x70.png",
+                                "primaryColorHex": "FFC0F7",
+                                "broadcastSettings": {
+                                    "id": "99591839",
+                                    "title": "*9KD* BEST FEMALE REBIRTH PLAYER ♡ | !prime !kar98 !socials !newvid",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "__typename": "VideoConnection"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "ccf49675-7b07-47a1-a8be-579cd290f85e",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "62663660",
+                                "login": "rallied",
+                                "displayName": "Rallied",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f65776db-8b38-4835-8c5b-8e84983da7f3-profile_image-70x70.png",
+                                "primaryColorHex": null,
+                                "broadcastSettings": {
+                                    "id": "62663660",
+                                    "title": "WZ w/ RalDragon | 1600+ Ws #2 Global Rank #1 Community |",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "__typename": "VideoConnection"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "c14018b8-65cf-40ce-92b1-52575dfe7636",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "120244187",
+                                "login": "aydan",
+                                "displayName": "Aydan",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c7e4307-f540-4415-84b3-513ce143f0ae-profile_image-70x70.png",
+                                "primaryColorHex": "FFFF47",
+                                "broadcastSettings": {
+                                    "id": "120244187",
+                                    "title": "Milking ads before EWC",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "__typename": "VideoConnection"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d91548f4-2a23-4aab-822c-def9e10ea2b8",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "30079255",
+                                "login": "huskerrs",
+                                "displayName": "HusKerrs",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a53b06a0-9d7b-4211-b944-f43ff41b19d8-profile_image-70x70.png",
+                                "primaryColorHex": "0085FF",
+                                "broadcastSettings": {
+                                    "id": "30079255",
+                                    "title": "9.69KD #1 KAR98 DEMON #FramesWinGames !GeForce #ad🔴 Follow @HusKerrs on all socials!",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "__typename": "VideoConnection"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "6805891e-c3f0-4f81-a532-1ed7588328d5",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "461481189",
+                                "login": "cristal_asmr",
+                                "displayName": "Cristal_Asmr",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/47a34f13-64bc-4983-aead-62ef641ae1db-profile_image-70x70.png",
+                                "primaryColorHex": "FFA3EE",
+                                "broadcastSettings": {
+                                    "id": "461481189",
+                                    "title": "💤LIVE♡Chill☁️Follow=Kiss 💋 !Youtube !Custom",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "__typename": "VideoConnection"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d678d638-dbba-4538-80ca-3b9bdd81281e",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "572766847",
+                                "login": "freshspawns",
+                                "displayName": "FreshSpawns",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/25a394f1-930f-4b58-8cf6-33e61fe154ab-profile_image-70x70.png",
+                                "primaryColorHex": "FF8300",
+                                "broadcastSettings": {
+                                    "id": "572766847",
+                                    "title": "THE WALKING DEAD In DayZ!",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "__typename": "VideoConnection"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "3fab9317-6d1f-4d09-b566-3e18db804a48",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "41929285",
+                                "login": "kaphog",
+                                "displayName": "kaphOG",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a5477f2-bda1-4b45-8694-aa8e0be007f1-profile_image-70x70.png",
+                                "primaryColorHex": null,
+                                "broadcastSettings": {
+                                    "id": "41929285",
+                                    "title": "Fair warning , this squad has 0.0001% to win a game with Kordy its -100%",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "__typename": "VideoConnection"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        }
+                    ],
+                    "__typename": "PersonalSection"
+                },
+                {
+                    "type": "RECOMMENDED_SECTION",
+                    "title": {
+                        "localizedFallback": "Recommended Channels",
+                        "localizedTokens": [
+                            {
+                                "value": "Recommended Channels",
+                                "__typename": "PersonalSectionTextToken"
+                            }
+                        ],
+                        "__typename": "PersonalSectionTitle"
+                    },
+                    "items": [
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:265799b3-329c-406d-b657-a10f4da7c8cc:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|0",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "69824993",
+                                "login": "therunningmanz",
+                                "displayName": "TheRunningManZ",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ce6ba9a-43cf-4611-8025-315a841cbeca-profile_image-70x70.png",
+                                "primaryColorHex": "FA2929",
+                                "broadcastSettings": {
+                                    "id": "69824993",
+                                    "title": "12hour MondayZ! Anastara attempt number twelvety! !pc !merch !yt !patch !patch2",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "40813536197",
+                                "broadcaster": {
+                                    "id": "69824993",
+                                    "broadcastSettings": {
+                                        "id": "69824993",
+                                        "title": "12hour MondayZ! Anastara attempt number twelvety! !pc !merch !yt !patch !patch2",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 2455,
+                                "game": {
+                                    "id": "65632",
+                                    "slug": "dayz",
+                                    "displayName": "DayZ",
+                                    "name": "DayZ",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:7c99d9fc-8d94-4551-afa4-65f16230bfae:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|1",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "598364394",
+                                "login": "timmy2cans",
+                                "displayName": "Timmy2Cans",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/558ab916-e654-4e1e-83bd-fc07efb3ee31-profile_image-70x70.png",
+                                "primaryColorHex": "00FAFA",
+                                "broadcastSettings": {
+                                    "id": "598364394",
+                                    "title": "Gaming Live on the Internet",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "51405727709",
+                                "broadcaster": {
+                                    "id": "598364394",
+                                    "broadcastSettings": {
+                                        "id": "598364394",
+                                        "title": "Gaming Live on the Internet",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 1260,
+                                "game": {
+                                    "id": "512710",
+                                    "slug": "call-of-duty-warzone",
+                                    "displayName": "Call of Duty: Warzone",
+                                    "name": "Call of Duty: Warzone",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:a340b520-014c-489d-8202-f0872cba7086:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|2",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "75973193",
+                                "login": "toperec",
+                                "displayName": "TopeREC",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a2a0b23-cf33-4a22-b652-dffdbd6f4e2c-profile_image-70x70.png",
+                                "primaryColorHex": "F00606",
+                                "broadcastSettings": {
+                                    "id": "75973193",
+                                    "title": "New video on YT!",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "40813193781",
+                                "broadcaster": {
+                                    "id": "75973193",
+                                    "broadcastSettings": {
+                                        "id": "75973193",
+                                        "title": "New video on YT!",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 593,
+                                "game": {
+                                    "id": "65632",
+                                    "slug": "dayz",
+                                    "displayName": "DayZ",
+                                    "name": "DayZ",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:67f5ea24-c1ad-46ce-afad-28845b95c508:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|3",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "87419387",
+                                "login": "sugaseanomalley",
+                                "displayName": "SugaSeanOmalley",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b249af01-df71-4cee-beb1-5b59326e115a-profile_image-70x70.png",
+                                "primaryColorHex": "FF38DB",
+                                "broadcastSettings": {
+                                    "id": "87419387",
+                                    "title": "UFC CHAMP-   HUGE FIGHTS TONIGHT",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "51407152909",
+                                "broadcaster": {
+                                    "id": "87419387",
+                                    "broadcastSettings": {
+                                        "id": "87419387",
+                                        "title": "UFC CHAMP-   HUGE FIGHTS TONIGHT",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 827,
+                                "game": {
+                                    "id": "512710",
+                                    "slug": "call-of-duty-warzone",
+                                    "displayName": "Call of Duty: Warzone",
+                                    "name": "Call of Duty: Warzone",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:d3b940bc-ae9c-48aa-92a9-013fc519e8c3:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|4",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "78513335",
+                                "login": "blinkx_",
+                                "displayName": "Blinkx_",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d01c9063-b21d-4043-b711-a2b565bd6f12-profile_image-70x70.png",
+                                "primaryColorHex": "FFA3EE",
+                                "broadcastSettings": {
+                                    "id": "78513335",
+                                    "title": "🩷 HI 🩷 WET STREAM 🩷 !squirt !socials !freesub",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "42545650408",
+                                "broadcaster": {
+                                    "id": "78513335",
+                                    "broadcastSettings": {
+                                        "id": "78513335",
+                                        "title": "🩷 HI 🩷 WET STREAM 🩷 !squirt !socials !freesub",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 1760,
+                                "game": {
+                                    "id": "509659",
+                                    "slug": "asmr",
+                                    "displayName": "ASMR",
+                                    "name": "ASMR",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:8f7bef4e-4fd1-4960-8a12-858ddb9cd735:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|5",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "457124238",
+                                "login": "adrianachechik_",
+                                "displayName": "AdrianaChechik_",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/cecd28e9-df32-441a-9a1f-54e2ff7722ab-profile_image-70x70.png",
+                                "primaryColorHex": "0FD2B8",
+                                "broadcastSettings": {
+                                    "id": "457124238",
+                                    "title": "RISE TARNISHED!  | ELDEN RING DLC!! FINALLY! | PS5 | DEX BUILD",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "44460310491",
+                                "broadcaster": {
+                                    "id": "457124238",
+                                    "broadcastSettings": {
+                                        "id": "457124238",
+                                        "title": "RISE TARNISHED!  | ELDEN RING DLC!! FINALLY! | PS5 | DEX BUILD",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 2431,
+                                "game": {
+                                    "id": "512953",
+                                    "slug": "elden-ring",
+                                    "displayName": "ELDEN RING",
+                                    "name": "ELDEN RING",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:3d1d9865-07f8-4add-ac9f-8d63972668ff:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|6",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "88957496",
+                                "login": "metaphor",
+                                "displayName": "Metaphor",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/28164bdf-1f53-4a56-b43e-f0c647a5f41c-profile_image-70x70.png",
+                                "primaryColorHex": "EB0400",
+                                "broadcastSettings": {
+                                    "id": "88957496",
+                                    "title": "BEST SOLOS PLAYER - #1 KILLS WORLD - SOLOS / DUOS / BB SOLOS WR HOLDER !60 !discord",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "44460001339",
+                                "broadcaster": {
+                                    "id": "88957496",
+                                    "broadcastSettings": {
+                                        "id": "88957496",
+                                        "title": "BEST SOLOS PLAYER - #1 KILLS WORLD - SOLOS / DUOS / BB SOLOS WR HOLDER !60 !discord",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 1399,
+                                "game": {
+                                    "id": "512710",
+                                    "slug": "call-of-duty-warzone",
+                                    "displayName": "Call of Duty: Warzone",
+                                    "name": "Call of Duty: Warzone",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:e9c334e2-4546-4233-ab12-72fe0b9b31a2:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|7",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "193365768",
+                                "login": "booya",
+                                "displayName": "Booya",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3775f588-1e06-4962-8749-51fce0329ecd-profile_image-70x70.png",
+                                "primaryColorHex": "FA2929",
+                                "broadcastSettings": {
+                                    "id": "193365768",
+                                    "title": "#1 Rebirth Island POV! | !youtube | !socials | !Scuf Partner",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "51405655917",
+                                "broadcaster": {
+                                    "id": "193365768",
+                                    "broadcastSettings": {
+                                        "id": "193365768",
+                                        "title": "#1 Rebirth Island POV! | !youtube | !socials | !Scuf Partner",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 1059,
+                                "game": {
+                                    "id": "512710",
+                                    "slug": "call-of-duty-warzone",
+                                    "displayName": "Call of Duty: Warzone",
+                                    "name": "Call of Duty: Warzone",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:4ef2d85c-984b-43fc-ae40-dbdafc745b1f:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|8",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "46431370",
+                                "login": "imnio",
+                                "displayName": "ImNio",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b48b32a0-61c1-4f5d-a3e7-5221250342b4-profile_image-70x70.png",
+                                "primaryColorHex": null,
+                                "broadcastSettings": {
+                                    "id": "46431370",
+                                    "title": "SAUCIN ON GROWN MEN W/ KAR98 | !movement | !tiktok | !YT | !socials",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "51405437373",
+                                "broadcaster": {
+                                    "id": "46431370",
+                                    "broadcastSettings": {
+                                        "id": "46431370",
+                                        "title": "SAUCIN ON GROWN MEN W/ KAR98 | !movement | !tiktok | !YT | !socials",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 1598,
+                                "game": {
+                                    "id": "512710",
+                                    "slug": "call-of-duty-warzone",
+                                    "displayName": "Call of Duty: Warzone",
+                                    "name": "Call of Duty: Warzone",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        },
+                        {
+                            "trackingID": "d1e94894-4a3a-404f-8411-d6d8e6250941:e93a6a5b-877b-46b7-bb33-695aa44a20ea:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|9",
+                            "promotionsCampaignID": "",
+                            "user": {
+                                "id": "605107691",
+                                "login": "sophiesnazz",
+                                "displayName": "sophiesnazz",
+                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba005366-b48d-4fae-996f-ecd99b79263d-profile_image-70x70.png",
+                                "primaryColorHex": "2D013F",
+                                "broadcastSettings": {
+                                    "id": "605107691",
+                                    "title": "ITS COMING HOMEEEEEE! | !socials",
+                                    "__typename": "BroadcastSettings"
+                                },
+                                "__typename": "User"
+                            },
+                            "label": "NONE",
+                            "content": {
+                                "id": "44460797995",
+                                "broadcaster": {
+                                    "id": "605107691",
+                                    "broadcastSettings": {
+                                        "id": "605107691",
+                                        "title": "ITS COMING HOMEEEEEE! | !socials",
+                                        "__typename": "BroadcastSettings"
+                                    },
+                                    "__typename": "User"
+                                },
+                                "viewersCount": 216,
+                                "game": {
+                                    "id": "512710",
+                                    "slug": "call-of-duty-warzone",
+                                    "displayName": "Call of Duty: Warzone",
+                                    "name": "Call of Duty: Warzone",
+                                    "__typename": "Game"
+                                },
+                                "type": "live",
+                                "__typename": "Stream"
+                            },
+                            "__typename": "PersonalSectionChannel"
+                        }
+                    ],
+                    "__typename": "PersonalSection"
+                }
+            ]
+        },
+        "extensions": {
+            "durationMilliseconds": 89,
+            "operationName": "PersonalSections",
+            "requestID": "01J1R1HHRZ8C4KEGG6FHJGTQGQ"
+        }
+    },
+    {
+        "data": {
+            "currentUser": {
+                "id": "720191630",
+                "createdAt": "2021-08-22T21:00:41.848964Z",
+                "followedGames": {
+                    "nodes": [],
+                    "__typename": "FollowedGameConnection"
+                },
+                "roles": {
+                    "isPartner": false,
+                    "isStaff": null,
+                    "__typename": "UserRoles"
+                },
+                "__typename": "User"
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 42,
+            "operationName": "FrontPageNew_User",
+            "requestID": "01J1R1HHRZ8C4KEGG6FHJGTQGQ"
+        }
+    },
+    {
+        "data": {
+            "shelves": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "provider-top-live-channels-you-may-like-1",
+                            "title": {
+                                "key": "TopLiveChannelsYouMayLike",
+                                "fallbackLocalizedTitle": "Recommended live channels",
+                                "localizedTitleTokens": [
+                                    {
+                                        "node": {
+                                            "text": "Live channels",
+                                            "hasEmphasis": true,
+                                            "location": "STREAMS_DIRECTORY",
+                                            "__typename": "TextToken"
+                                        },
+                                        "__typename": "TitleTokenEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "text": " we think you’ll like",
+                                            "hasEmphasis": false,
+                                            "location": "NO_LINK",
+                                            "__typename": "TextToken"
+                                        },
+                                        "__typename": "TitleTokenEdge"
+                                    }
+                                ],
+                                "context": null,
+                                "__typename": "ShelfTitle"
+                            },
+                            "content": {
+                                "edges": [
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "51405727709",
+                                            "broadcaster": {
+                                                "id": "598364394",
+                                                "broadcastSettings": {
+                                                    "id": "598364394",
+                                                    "title": "Gaming Live on the Internet",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "Timmy2Cans",
+                                                "login": "timmy2cans",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/558ab916-e654-4e1e-83bd-fc07efb3ee31-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/558ab916-e654-4e1e-83bd-fc07efb3ee31-profile_image-300x300.png",
+                                                "primaryColorHex": "00FAFA",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:598364394:0",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 1260,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_timmy2cans-440x248.jpg",
+                                            "createdAt": "2024-07-01T17:20:46Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "203a4ed4-04a4-4e7f-969a-9b3f1a8768a7:28aa3d72-0f8e-479c-ae29-03fed370a6f6:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|0",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "40813536197",
+                                            "broadcaster": {
+                                                "id": "69824993",
+                                                "broadcastSettings": {
+                                                    "id": "69824993",
+                                                    "title": "12hour MondayZ! Anastara attempt number twelvety! !pc !merch !yt !patch !patch2",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "TheRunningManZ",
+                                                "login": "therunningmanz",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ce6ba9a-43cf-4611-8025-315a841cbeca-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ce6ba9a-43cf-4611-8025-315a841cbeca-profile_image-300x300.png",
+                                                "primaryColorHex": "FA2929",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "65632",
+                                                "categorySlug": "dayz",
+                                                "name": "DayZ",
+                                                "viewersCount": 13986,
+                                                "displayName": "DayZ",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/65632_IGDB-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "RPG",
+                                                        "tagName": "RPG",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Simulation",
+                                                        "tagName": "Simulation",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Adventure Game",
+                                                        "tagName": "Adventure Game",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2018-12-13T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:69824993:0",
+                                                    "name": "Survival",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:69824993:1",
+                                                    "name": "PVP",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:69824993:2",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:69824993:3",
+                                                    "name": "UK",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 2455,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_therunningmanz-440x248.jpg",
+                                            "createdAt": "2024-07-01T18:12:46Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "203a4ed4-04a4-4e7f-969a-9b3f1a8768a7:f5b55cdd-0c12-4eb6-b4e0-1a4472e6285a:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|1",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "44460797995",
+                                            "broadcaster": {
+                                                "id": "605107691",
+                                                "broadcastSettings": {
+                                                    "id": "605107691",
+                                                    "title": "ITS COMING HOMEEEEEE! | !socials",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "sophiesnazz",
+                                                "login": "sophiesnazz",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba005366-b48d-4fae-996f-ecd99b79263d-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba005366-b48d-4fae-996f-ecd99b79263d-profile_image-300x300.png",
+                                                "primaryColorHex": "2D013F",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:605107691:0",
+                                                    "name": "hottub",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:605107691:1",
+                                                    "name": "funny",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:605107691:2",
+                                                    "name": "gaming",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:605107691:3",
+                                                    "name": "egril",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:605107691:4",
+                                                    "name": "gamergirl",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:605107691:5",
+                                                    "name": "EGIRL",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:605107691:6",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 216,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sophiesnazz-440x248.jpg",
+                                            "createdAt": "2024-07-01T20:14:01Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "203a4ed4-04a4-4e7f-969a-9b3f1a8768a7:c4672a21-4c26-417a-97a2-9523101e26de:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|2",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "51407152909",
+                                            "broadcaster": {
+                                                "id": "87419387",
+                                                "broadcastSettings": {
+                                                    "id": "87419387",
+                                                    "title": "UFC CHAMP-   HUGE FIGHTS TONIGHT",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "SugaSeanOmalley",
+                                                "login": "sugaseanomalley",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b249af01-df71-4cee-beb1-5b59326e115a-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b249af01-df71-4cee-beb1-5b59326e115a-profile_image-300x300.png",
+                                                "primaryColorHex": "FF38DB",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:87419387:0",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 827,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sugaseanomalley-440x248.jpg",
+                                            "createdAt": "2024-07-01T19:54:11Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "203a4ed4-04a4-4e7f-969a-9b3f1a8768a7:03b2a45c-bc56-445c-bbf6-6f6710625f34:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|3",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "51405655917",
+                                            "broadcaster": {
+                                                "id": "193365768",
+                                                "broadcastSettings": {
+                                                    "id": "193365768",
+                                                    "title": "#1 Rebirth Island POV! | !youtube | !socials | !Scuf Partner",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "Booya",
+                                                "login": "booya",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3775f588-1e06-4962-8749-51fce0329ecd-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3775f588-1e06-4962-8749-51fce0329ecd-profile_image-300x300.png",
+                                                "primaryColorHex": "FA2929",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:193365768:0",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 1059,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_booya-440x248.jpg",
+                                            "createdAt": "2024-07-01T17:13:08Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "203a4ed4-04a4-4e7f-969a-9b3f1a8768a7:6a9154aa-7908-4690-99da-a4fd72d70f1e:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|4",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "40813193781",
+                                            "broadcaster": {
+                                                "id": "75973193",
+                                                "broadcastSettings": {
+                                                    "id": "75973193",
+                                                    "title": "New video on YT!",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "TopeREC",
+                                                "login": "toperec",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a2a0b23-cf33-4a22-b652-dffdbd6f4e2c-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1a2a0b23-cf33-4a22-b652-dffdbd6f4e2c-profile_image-300x300.png",
+                                                "primaryColorHex": "F00606",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "65632",
+                                                "categorySlug": "dayz",
+                                                "name": "DayZ",
+                                                "viewersCount": 13986,
+                                                "displayName": "DayZ",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/65632_IGDB-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "RPG",
+                                                        "tagName": "RPG",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Simulation",
+                                                        "tagName": "Simulation",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Adventure Game",
+                                                        "tagName": "Adventure Game",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2018-12-13T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:75973193:0",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:75973193:1",
+                                                    "name": "dayz",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:75973193:2",
+                                                    "name": "survival",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:75973193:3",
+                                                    "name": "pvp",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:75973193:4",
+                                                    "name": "toperec",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 593,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_toperec-440x248.jpg",
+                                            "createdAt": "2024-07-01T16:06:11Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "203a4ed4-04a4-4e7f-969a-9b3f1a8768a7:cbd72578-e037-4ee4-b34d-098a639dc50a:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|5",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    }
+                                ],
+                                "__typename": "ShelfContentConnection"
+                            },
+                            "trackingInfo": {
+                                "rowName": "TopLiveChannelsYouMayLike",
+                                "reasonType": "",
+                                "reasonTarget": null,
+                                "reasonTargetType": null,
+                                "__typename": "TrackingInfo"
+                            },
+                            "__typename": "Shelf"
+                        },
+                        "cursor": "JX8DAQEGY3Vyc29yAf+AAAEBAQxTZWVuU2VjdGlvbnMB/4IAAAAW/4ECAQEIW11zdHJpbmcB/4IAAQwAAHf/gAEDKXByb3ZpZGVyLXRvcC1saXZlLWNoYW5uZWxzLXlvdS1tYXktbGlrZS0xKnByb3ZpZGVyLXJlY29tbWVuZGVkLWJlY2F1c2UteW91LXdhdGNoLXgtMRxwcm92aWRlci10b3AtZ2FtZXMtZm9yLXlvdS0xAA==",
+                        "__typename": "ShelfEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "provider-recommended-because-you-watch-x-1",
+                            "title": {
+                                "key": "RecommendedBecauseYouWatchX",
+                                "fallbackLocalizedTitle": "Recommended live channels",
+                                "localizedTitleTokens": [
+                                    {
+                                        "node": {
+                                            "text": "Recommended ",
+                                            "hasEmphasis": false,
+                                            "location": "NO_LINK",
+                                            "__typename": "TextToken"
+                                        },
+                                        "__typename": "TitleTokenEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "512710",
+                                            "categorySlug": "call-of-duty-warzone",
+                                            "name": "Call of Duty: Warzone",
+                                            "displayName": "Call of Duty: Warzone",
+                                            "__typename": "Game"
+                                        },
+                                        "__typename": "TitleTokenEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "text": " channels",
+                                            "hasEmphasis": false,
+                                            "location": "NO_LINK",
+                                            "__typename": "TextToken"
+                                        },
+                                        "__typename": "TitleTokenEdge"
+                                    }
+                                ],
+                                "context": null,
+                                "__typename": "ShelfTitle"
+                            },
+                            "content": {
+                                "edges": [
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "51405655917",
+                                            "broadcaster": {
+                                                "id": "193365768",
+                                                "broadcastSettings": {
+                                                    "id": "193365768",
+                                                    "title": "#1 Rebirth Island POV! | !youtube | !socials | !Scuf Partner",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "Booya",
+                                                "login": "booya",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3775f588-1e06-4962-8749-51fce0329ecd-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3775f588-1e06-4962-8749-51fce0329ecd-profile_image-300x300.png",
+                                                "primaryColorHex": "FA2929",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:193365768:0",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 1059,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_booya-440x248.jpg",
+                                            "createdAt": "2024-07-01T17:13:08Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "79289cd5-0397-40fc-9f7b-a184ffae4753:5d3c490c-3135-44e4-9854-1d400bd8b92a:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|3",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "44460001339",
+                                            "broadcaster": {
+                                                "id": "88957496",
+                                                "broadcastSettings": {
+                                                    "id": "88957496",
+                                                    "title": "BEST SOLOS PLAYER - #1 KILLS WORLD - SOLOS / DUOS / BB SOLOS WR HOLDER !60 !discord",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "Metaphor",
+                                                "login": "metaphor",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/28164bdf-1f53-4a56-b43e-f0c647a5f41c-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/28164bdf-1f53-4a56-b43e-f0c647a5f41c-profile_image-300x300.png",
+                                                "primaryColorHex": "EB0400",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:88957496:0",
+                                                    "name": "AIMASSIST",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:88957496:1",
+                                                    "name": "IS",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:88957496:2",
+                                                    "name": "OVERPOWERED",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:88957496:3",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:88957496:4",
+                                                    "name": "Solos",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:88957496:5",
+                                                    "name": "KBM",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:88957496:6",
+                                                    "name": "MnK",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 1399,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_metaphor-440x248.jpg",
+                                            "createdAt": "2024-07-01T15:57:44Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "79289cd5-0397-40fc-9f7b-a184ffae4753:27e6aac5-c707-432b-a116-66ee02604bac:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|4",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "51405437373",
+                                            "broadcaster": {
+                                                "id": "46431370",
+                                                "broadcastSettings": {
+                                                    "id": "46431370",
+                                                    "title": "SAUCIN ON GROWN MEN W/ KAR98 | !movement | !tiktok | !YT | !socials",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "ImNio",
+                                                "login": "imnio",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b48b32a0-61c1-4f5d-a3e7-5221250342b4-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/b48b32a0-61c1-4f5d-a3e7-5221250342b4-profile_image-300x300.png",
+                                                "primaryColorHex": null,
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:46431370:0",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 1598,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imnio-440x248.jpg",
+                                            "createdAt": "2024-07-01T16:38:49Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "79289cd5-0397-40fc-9f7b-a184ffae4753:7c0eb796-64ed-4373-a0f3-f4eea51b8ca6:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|5",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "42546646760",
+                                            "broadcaster": {
+                                                "id": "132820204",
+                                                "broadcastSettings": {
+                                                    "id": "132820204",
+                                                    "title": "[POL/ENG] BEST FEMALE ON WARZONE !SCUF !GIVEAWAY",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "IMAngelikaa",
+                                                "login": "imangelikaa",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/917c7dfd-12c7-4baa-adef-802e2741b175-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/917c7dfd-12c7-4baa-adef-802e2741b175-profile_image-300x300.png",
+                                                "primaryColorHex": "FAB3FF",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:132820204:0",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 191,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imangelikaa-440x248.jpg",
+                                            "createdAt": "2024-07-01T17:10:19Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "79289cd5-0397-40fc-9f7b-a184ffae4753:00ea37fe-a488-48c4-9421-e9b1f5898cfc:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|6",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "44460621387",
+                                            "broadcaster": {
+                                                "id": "195148000",
+                                                "broadcastSettings": {
+                                                    "id": "195148000",
+                                                    "title": "The Lebron James of Rebirth Island!",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "tcTekk",
+                                                "login": "tctekk",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/7db27832-2607-48b3-a04e-53d7dcfd50d6-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/7db27832-2607-48b3-a04e-53d7dcfd50d6-profile_image-300x300.png",
+                                                "primaryColorHex": null,
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:195148000:0",
+                                                    "name": "warzone",
+                                                    "__typename": "FreeformTag"
+                                                },
+                                                {
+                                                    "id": "fft:CHANNEL:195148000:1",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 530,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tctekk-440x248.jpg",
+                                            "createdAt": "2024-07-01T19:32:06Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "79289cd5-0397-40fc-9f7b-a184ffae4753:be9d206a-ff20-4ebe-a0d7-debba8570f93:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|7",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "44459946843",
+                                            "broadcaster": {
+                                                "id": "234435442",
+                                                "broadcastSettings": {
+                                                    "id": "234435442",
+                                                    "title": "#1 Rebirth Gamer | !socials | @adriann",
+                                                    "__typename": "BroadcastSettings"
+                                                },
+                                                "displayName": "adriann",
+                                                "login": "adriann",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f5b32d8-1134-4199-b157-b51ec037d393-profile_image-50x50.png",
+                                                "largeProfileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f5b32d8-1134-4199-b157-b51ec037d393-profile_image-300x300.png",
+                                                "primaryColorHex": "8205B3",
+                                                "roles": {
+                                                    "isPartner": true,
+                                                    "__typename": "UserRoles"
+                                                },
+                                                "__typename": "User"
+                                            },
+                                            "game": {
+                                                "id": "512710",
+                                                "categorySlug": "call-of-duty-warzone",
+                                                "name": "Call of Duty: Warzone",
+                                                "viewersCount": 42622,
+                                                "displayName": "Call of Duty: Warzone",
+                                                "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                                "gameTags": [
+                                                    {
+                                                        "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "FPS",
+                                                        "tagName": "FPS",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Shooter",
+                                                        "tagName": "Shooter",
+                                                        "__typename": "Tag"
+                                                    },
+                                                    {
+                                                        "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                        "isLanguageTag": false,
+                                                        "localizedName": "Action",
+                                                        "tagName": "Action",
+                                                        "__typename": "Tag"
+                                                    }
+                                                ],
+                                                "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                                "__typename": "Game"
+                                            },
+                                            "freeformTags": [
+                                                {
+                                                    "id": "fft:CHANNEL:234435442:0",
+                                                    "name": "English",
+                                                    "__typename": "FreeformTag"
+                                                }
+                                            ],
+                                            "viewersCount": 1525,
+                                            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adriann-440x248.jpg",
+                                            "createdAt": "2024-07-01T15:26:34Z",
+                                            "type": "live",
+                                            "__typename": "Stream"
+                                        },
+                                        "trackingID": "79289cd5-0397-40fc-9f7b-a184ffae4753:fe6ea059-7786-41f9-bb49-6fdd8d6b78e4:MF|KERMIE_TF2_001:RF|RANKER_BONSAI_3X_NEG:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|8",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    }
+                                ],
+                                "__typename": "ShelfContentConnection"
+                            },
+                            "trackingInfo": {
+                                "rowName": "RecommendedBecauseYouWatchX",
+                                "reasonType": "",
+                                "reasonTarget": null,
+                                "reasonTargetType": null,
+                                "__typename": "TrackingInfo"
+                            },
+                            "__typename": "Shelf"
+                        },
+                        "cursor": "JX8DAQEGY3Vyc29yAf+AAAEBAQxTZWVuU2VjdGlvbnMB/4IAAAAW/4ECAQEIW11zdHJpbmcB/4IAAQwAAHf/gAEDKXByb3ZpZGVyLXRvcC1saXZlLWNoYW5uZWxzLXlvdS1tYXktbGlrZS0xKnByb3ZpZGVyLXJlY29tbWVuZGVkLWJlY2F1c2UteW91LXdhdGNoLXgtMRxwcm92aWRlci10b3AtZ2FtZXMtZm9yLXlvdS0xAA==",
+                        "__typename": "ShelfEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "provider-top-games-for-you-1",
+                            "title": {
+                                "key": "TopGamesForYou",
+                                "fallbackLocalizedTitle": "Recommended categories",
+                                "localizedTitleTokens": [
+                                    {
+                                        "node": {
+                                            "text": "Categories",
+                                            "hasEmphasis": true,
+                                            "location": "CATEGORIES_DIRECTORY",
+                                            "__typename": "TextToken"
+                                        },
+                                        "__typename": "TitleTokenEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "text": " we think you’ll like",
+                                            "hasEmphasis": false,
+                                            "location": "NO_LINK",
+                                            "__typename": "TextToken"
+                                        },
+                                        "__typename": "TitleTokenEdge"
+                                    }
+                                ],
+                                "context": null,
+                                "__typename": "ShelfTitle"
+                            },
+                            "content": {
+                                "edges": [
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "512710",
+                                            "categorySlug": "call-of-duty-warzone",
+                                            "name": "Call of Duty: Warzone",
+                                            "viewersCount": 42622,
+                                            "displayName": "Call of Duty: Warzone",
+                                            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
+                                            "gameTags": [
+                                                {
+                                                    "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "FPS",
+                                                    "tagName": "FPS",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Shooter",
+                                                    "tagName": "Shooter",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Action",
+                                                    "tagName": "Action",
+                                                    "__typename": "Tag"
+                                                }
+                                            ],
+                                            "originalReleaseDate": "2020-03-10T00:00:00Z",
+                                            "__typename": "Game"
+                                        },
+                                        "trackingID": "da1ec62a-b15b-443e-bbac-a4d9602fc626:46dbfe18-d1a0-4f71-81fe-85f18ae9a3af:MF|KERMIE_TF2_CATEGORY_USER_001:RF|UNK:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|0",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "65632",
+                                            "categorySlug": "dayz",
+                                            "name": "DayZ",
+                                            "viewersCount": 13986,
+                                            "displayName": "DayZ",
+                                            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/65632_IGDB-188x250.jpg",
+                                            "gameTags": [
+                                                {
+                                                    "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "FPS",
+                                                    "tagName": "FPS",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Shooter",
+                                                    "tagName": "Shooter",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "RPG",
+                                                    "tagName": "RPG",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Simulation",
+                                                    "tagName": "Simulation",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Adventure Game",
+                                                    "tagName": "Adventure Game",
+                                                    "__typename": "Tag"
+                                                }
+                                            ],
+                                            "originalReleaseDate": "2018-12-13T00:00:00Z",
+                                            "__typename": "Game"
+                                        },
+                                        "trackingID": "da1ec62a-b15b-443e-bbac-a4d9602fc626:ad441af7-4252-4b45-9c4f-609fafb42c8f:MF|KERMIE_TF2_CATEGORY_USER_001:RF|UNK:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|1",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "509659",
+                                            "categorySlug": "asmr",
+                                            "name": "ASMR",
+                                            "viewersCount": 15691,
+                                            "displayName": "ASMR",
+                                            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509659-188x250.jpg",
+                                            "gameTags": [
+                                                {
+                                                    "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "IRL",
+                                                    "tagName": "IRL",
+                                                    "__typename": "Tag"
+                                                }
+                                            ],
+                                            "originalReleaseDate": null,
+                                            "__typename": "Game"
+                                        },
+                                        "trackingID": "da1ec62a-b15b-443e-bbac-a4d9602fc626:616d85e6-1b84-4dc8-a724-d5b76b3ca3ab:MF|KERMIE_TF2_CATEGORY_USER_001:RF|UNK:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|2",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "468880140",
+                                            "categorySlug": "pga-tour-2k23",
+                                            "name": "PGA Tour 2K23",
+                                            "viewersCount": 47,
+                                            "displayName": "PGA Tour 2K23",
+                                            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/468880140_IGDB-188x250.jpg",
+                                            "gameTags": [
+                                                {
+                                                    "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "RPG",
+                                                    "tagName": "RPG",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Simulation",
+                                                    "tagName": "Simulation",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "0d4233af-7ac6-49da-937d-e0f42b7db187",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Sports Game",
+                                                    "tagName": "Sports Game",
+                                                    "__typename": "Tag"
+                                                }
+                                            ],
+                                            "originalReleaseDate": "2022-10-11T00:00:00Z",
+                                            "__typename": "Game"
+                                        },
+                                        "trackingID": "da1ec62a-b15b-443e-bbac-a4d9602fc626:8d5b9fb2-e83d-47da-97d1-ff098234a522:MF|KERMIE_TF2_CATEGORY_USER_001:RF|UNK:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|3",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "509658",
+                                            "categorySlug": "just-chatting",
+                                            "name": "Just Chatting",
+                                            "viewersCount": 387626,
+                                            "displayName": "Just Chatting",
+                                            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-188x250.jpg",
+                                            "gameTags": [
+                                                {
+                                                    "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "IRL",
+                                                    "tagName": "IRL",
+                                                    "__typename": "Tag"
+                                                }
+                                            ],
+                                            "originalReleaseDate": null,
+                                            "__typename": "Game"
+                                        },
+                                        "trackingID": "da1ec62a-b15b-443e-bbac-a4d9602fc626:c2632a59-b771-43fd-b8c2-b734aa0879db:MF|KERMIE_TF2_CATEGORY_USER_001:RF|UNK:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|4",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    },
+                                    {
+                                        "cursor": "",
+                                        "node": {
+                                            "id": "512953",
+                                            "categorySlug": "elden-ring",
+                                            "name": "ELDEN RING",
+                                            "viewersCount": 163509,
+                                            "displayName": "ELDEN RING",
+                                            "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-188x250.jpg",
+                                            "gameTags": [
+                                                {
+                                                    "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "RPG",
+                                                    "tagName": "RPG",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Adventure Game",
+                                                    "tagName": "Adventure Game",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Action",
+                                                    "tagName": "Action",
+                                                    "__typename": "Tag"
+                                                },
+                                                {
+                                                    "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+                                                    "isLanguageTag": false,
+                                                    "localizedName": "Open World",
+                                                    "tagName": "Open World",
+                                                    "__typename": "Tag"
+                                                }
+                                            ],
+                                            "originalReleaseDate": "2022-02-25T00:00:00Z",
+                                            "__typename": "Game"
+                                        },
+                                        "trackingID": "da1ec62a-b15b-443e-bbac-a4d9602fc626:633f1238-65a3-4b37-a8e3-da7158eae01d:MF|KERMIE_TF2_CATEGORY_USER_001:RF|UNK:CG|UNK:CR|UNK:BL|UNK:FC|UNK:RK|6",
+                                        "promotionsCampaignID": "",
+                                        "sourceType": "RECOMMENDED",
+                                        "__typename": "ShelfContentEdge"
+                                    }
+                                ],
+                                "__typename": "ShelfContentConnection"
+                            },
+                            "trackingInfo": {
+                                "rowName": "TopGamesForYou",
+                                "reasonType": "",
+                                "reasonTarget": null,
+                                "reasonTargetType": null,
+                                "__typename": "TrackingInfo"
+                            },
+                            "__typename": "Shelf"
+                        },
+                        "cursor": "JX8DAQEGY3Vyc29yAf+AAAEBAQxTZWVuU2VjdGlvbnMB/4IAAAAW/4ECAQEIW11zdHJpbmcB/4IAAQwAAHf/gAEDKXByb3ZpZGVyLXRvcC1saXZlLWNoYW5uZWxzLXlvdS1tYXktbGlrZS0xKnByb3ZpZGVyLXJlY29tbWVuZGVkLWJlY2F1c2UteW91LXdhdGNoLXgtMRxwcm92aWRlci10b3AtZ2FtZXMtZm9yLXlvdS0xAA==",
+                        "__typename": "ShelfEdge"
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "__typename": "PageInfo"
+                },
+                "verboseResults": null,
+                "__typename": "ShelfConnection"
+            }
+        },
+        "extensions": {
+            "durationMilliseconds": 243,
+            "operationName": "Shelves",
+            "requestID": "01J1R1HHRZ8C4KEGG6FHJGTQGQ"
+        }
+    }
+]
